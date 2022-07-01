@@ -1,0 +1,20 @@
+{
+	"name":	"F2D Manifest",
+	"manifestversion":	1,
+	"f2dversion":	"1.0.1",
+	"assets":	[{
+			"URI":	"primaryGraphics.f2d",
+			"type":	"Autodesk.CloudPlatform.F2D",
+			"id":	"primaryGraphics.f2d",
+			"mime":	"application/autodesk-f2d",
+			"usize":	139065,
+			"size":	45121
+		}, {
+			"URI":	"metadata.json.gz",
+			"type":	"Autodesk.CloudPlatform.ViewingMetadata",
+			"id":	"metadata.json.gz",
+			"mime":	"application/json",
+			"usize":	2009,
+			"size":	930
+		}]
+}
